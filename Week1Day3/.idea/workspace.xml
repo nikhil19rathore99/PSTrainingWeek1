@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="907ccd91-fc87-4552-b7bd-1d984d41910d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sapient/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sapient/Read.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projectadd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projectadd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week1Day3/com/sapient/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1Day3/com/sapient/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week1Day3/com/sapient/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1Day3/com/sapient/Demo1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +50,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="Demo " type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sapient.Demo" />
+  <component name="RunManager" selected="Application.Demo1 (1)">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.f1.Demo1" />
       <module name="Week1Day3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sapient.*" />
+          <option name="PATTERN" value="com.f1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sapient.Demo4" />
+      <module name="Week1Day3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sapient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -115,17 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo " />
       <item itemvalue="Application.Demo1" />
       <item itemvalue="Application.Demo2" />
       <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.Demo4" />
+      <item itemvalue="Application.Demo1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1 (1)" />
+        <item itemvalue="Application.Demo4" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo3" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo " />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624425097896</updated>
-      <workItem from="1624425110383" duration="14682000" />
+      <workItem from="1624425110383" duration="17471000" />
     </task>
     <servers />
   </component>
