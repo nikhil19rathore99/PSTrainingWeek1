@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

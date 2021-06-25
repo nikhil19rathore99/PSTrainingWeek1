@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 interface b1{
     void f1();

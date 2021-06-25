@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 public class TaxCalculation {
     public double calculateTax(EmployeeDTO employee){

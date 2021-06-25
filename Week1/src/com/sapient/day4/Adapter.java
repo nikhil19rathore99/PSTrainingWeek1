@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 public interface Adapter {
     void f1();

@@ -1,13 +1,12 @@
-package com.day4;
+package com.sapient.day4;
 
-public class Aljebra implements Mathematics {
+public class AirthmeticOperation implements Mathematics {
     int num1, num2;
     double res;
-    public Aljebra(int n1, int n2){
+    public AirthmeticOperation(int n1, int n2){
         this.num1 = n1;
         this.num2 = n2;
     }
-    @Override
     public void calculate(){
 
     }
@@ -17,4 +16,3 @@ public class Aljebra implements Mathematics {
         System.out.println("Results: " + res);
     }
 }
-

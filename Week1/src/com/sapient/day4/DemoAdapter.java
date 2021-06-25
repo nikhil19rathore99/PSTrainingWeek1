@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 public class DemoAdapter {
     public static void main(String[] args) {

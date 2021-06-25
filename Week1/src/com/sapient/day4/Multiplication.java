@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 public class Multiplication extends AirthmeticOperation {
     public Multiplication(int n1, int n2){

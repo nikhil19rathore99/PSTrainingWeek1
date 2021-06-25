@@ -1,4 +1,4 @@
-package com.day4;
+package com.sapient.day4;
 
 public class Addition extends AirthmeticOperation {
     public Addition(int n1, int n2){
